@@ -13,13 +13,13 @@ Probably what you're here for.
 
 | Date       | Company or organization | Action        | Source |
 | ---------- | ----------------------- | ------------- | ------ |
-| 2021-01-07 | Facebook                | Permanent ban | https://www.facebook.com/zuck/posts/10112681480907401 |
-| 2021-01-07 | Shopify                 | Terminated stores | https://techcrunch.com/2021/01/07/shopify-pulls-donald-trump-stores-off-its-website/ |
-| 2021-01-07 | TikTok                  | Restricted videos | https://www.engadget.com/tiktok-ban-trump-044348829.html
-| 2021-01-07 | Twitch                  | Disabled channel | https://www.ign.com/articles/twitch-donald-trump-channel-disabled-capitol-hill |
-| 2021-01-08 | Twitter                 | Permanent ban | https://www.theverge.com/2021/1/8/22218753/twitter-bans-trump-permanently-realdonaldtrump |
-| 2021-01-10 | PGA                     | Changed golf course | https://apnews.com/article/joe-biden-donald-trump-pga-championships-golf-new-jersey-723ef0a90af03af016c9a7ae2b711fc6 |
-| 2021-01-10 | Stripe                  | Payments disabled | https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-website-11610319116 |
+| 01/07/2021 | Facebook                | Permanent ban | https://www.facebook.com/zuck/posts/10112681480907401 |
+| 01/07/2021 | Shopify                 | Terminated stores | https://techcrunch.com/2021/01/07/shopify-pulls-donald-trump-stores-off-its-website/ |
+| 01/07/2021 | TikTok                  | Restricted videos | https://www.engadget.com/tiktok-ban-trump-044348829.html
+| 01/07/2021 | Twitch                  | Disabled channel | https://www.ign.com/articles/twitch-donald-trump-channel-disabled-capitol-hill |
+| 01/08/2021 | Twitter                 | Permanent ban | https://www.theverge.com/2021/1/8/22218753/twitter-bans-trump-permanently-realdonaldtrump |
+| 01/10/2021 | PGA                     | Changed golf course | https://apnews.com/article/joe-biden-donald-trump-pga-championships-golf-new-jersey-723ef0a90af03af016c9a7ae2b711fc6 |
+| 01/10/2021 | Stripe                  | Payments disabled | https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-website-11610319116 |
 
 ## Contributions
 
