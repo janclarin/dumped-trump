@@ -18,7 +18,7 @@ Probably what you're here for.
 | 2021-01-07 | TikTok                  | Restricted videos | https://www.engadget.com/tiktok-ban-trump-044348829.html
 | 2021-01-07 | Twitch                  | Disabled channel | https://www.ign.com/articles/twitch-donald-trump-channel-disabled-capitol-hill |
 | 2021-01-08 | Twitter                 | Permanent ban | https://www.theverge.com/2021/1/8/22218753/twitter-bans-trump-permanently-realdonaldtrump |
-| 2021-01-10 | PGA                     | Left golf course | https://apnews.com/article/joe-biden-donald-trump-pga-championships-golf-new-jersey-723ef0a90af03af016c9a7ae2b711fc6 |
+| 2021-01-10 | PGA                     | Changed golf course | https://apnews.com/article/joe-biden-donald-trump-pga-championships-golf-new-jersey-723ef0a90af03af016c9a7ae2b711fc6 |
 | 2021-01-10 | Stripe                  | Payments disabled | https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-website-11610319116 |
 
 ## Contributions
