@@ -1,4 +1,4 @@
-# Dump Trump
+# Dumped Trump
 
 ## What
 
