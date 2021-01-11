@@ -16,6 +16,7 @@ Probably what you're here for.
 | 01/06/2021 | Facebook                | Permanent ban | https://www.facebook.com/zuck/posts/10112681480907401 |
 | 01/06/2021 | Snap                    | Permanent ban | https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat
 | 01/06/2021 | Twitter                 | Permanent ban | https://www.theverge.com/2021/1/8/22218753/twitter-bans-trump-permanently-realdonaldtrump |
+| 01/07/2021 | PayPal                  | Terminated Trump related transactions | https://www.cnet.com/news/paypal-and-shopify-remove-trump-related-accounts-citing-policies-against-supporting-violence/
 | 01/07/2021 | Shopify                 | Terminated stores | https://techcrunch.com/2021/01/07/shopify-pulls-donald-trump-stores-off-its-website/ |
 | 01/07/2021 | TikTok                  | Restricted content | https://www.engadget.com/tiktok-ban-trump-044348829.html
 | 01/07/2021 | Twitch                  | Disabled channel | https://www.ign.com/articles/twitch-donald-trump-channel-disabled-capitol-hill |
