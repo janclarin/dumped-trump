@@ -21,6 +21,7 @@ Probably what you're here for.
 | 01/07/2021 | TikTok                  | Restricted content | https://www.engadget.com/tiktok-ban-trump-044348829.html |
 | 01/07/2021 | Twitch                  | Disabled channel | https://www.ign.com/articles/twitch-donald-trump-channel-disabled-capitol-hill |
 | 01/08/2021 | Discord                 | Banned server | https://www.theverge.com/2021/1/8/22221579/discord-bans-the-donald-server-reddit-subreddit
+| 01/08/2021 | Lehigh University       | Rescinded honorary degree | https://www2.lehigh.edu/news/board-of-trustees-honorary-degree-decision |
 | 01/08/2021 | Reddit                  | Banned subreddit | https://www.nytimes.com/2021/01/08/us/politics/reddit-bans-forum-dedicated-to-supporting-trump-and-twitter-permanently-suspends-his-allies-who-spread-conspiracy-theories.html |
 | 01/10/2021 | PGA                     | Changed golf course | https://apnews.com/article/joe-biden-donald-trump-pga-championships-golf-new-jersey-723ef0a90af03af016c9a7ae2b711fc6 |
 | 01/10/2021 | Stripe                  | Payments disabled | https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-website-11610319116 |
