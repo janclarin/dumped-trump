@@ -24,6 +24,8 @@ Probably what you're here for.
 | 01/08/2021 | Reddit                  | Banned subreddit | https://www.nytimes.com/2021/01/08/us/politics/reddit-bans-forum-dedicated-to-supporting-trump-and-twitter-permanently-suspends-his-allies-who-spread-conspiracy-theories.html |
 | 01/10/2021 | PGA                     | Changed golf course | https://apnews.com/article/joe-biden-donald-trump-pga-championships-golf-new-jersey-723ef0a90af03af016c9a7ae2b711fc6 |
 | 01/10/2021 | Stripe                  | Payments disabled | https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-website-11610319116 |
+| 01/11/2021 | Deutsche Bank           | No future business | https://www.nytimes.com/2021/01/11/business/trump-brand-capitol-mob.html |
+| 01/11/2021 | Signature Bank          | No future business | https://www.nytimes.com/2021/01/11/business/trump-brand-capitol-mob.html |
 
 ## Contributions
 
