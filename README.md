@@ -27,6 +27,7 @@ Probably what you're here for.
 | 01/10/2021 | Stripe                  | Payments disabled | https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-website-11610319116 |
 | 01/11/2021 | Deutsche Bank           | No future business | https://www.nytimes.com/2021/01/11/business/trump-brand-capitol-mob.html |
 | 01/11/2021 | Signature Bank          | No future business | https://www.nytimes.com/2021/01/11/business/trump-brand-capitol-mob.html |
+| 01/13/2021 | City of New York        | Canceled city contracts | https://www1.nyc.gov/office-of-the-mayor/news/022-21/mayor-de-blasio-new-york-city-will-cancel-trump-organization-contracts |
 
 ## Contributions
 
